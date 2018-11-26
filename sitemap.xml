@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://toby.life/categories/</loc>
+    <loc>https://toby.life/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://toby.life/tags/</loc>
+    <loc>https://toby.life/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://toby.life/</loc>
+    <loc>https://toby.life/</loc>
     <priority>0</priority>
   </url>
   
